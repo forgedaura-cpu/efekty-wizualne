@@ -83,23 +83,6 @@ header {
     margin-bottom: 8px;
 }
 
-/* Prosty przykład przejścia - Podstrona 1 */
-.simple-transition {
-    padding: 15px;
-    margin: 15px 0;
-    background-color: #3498db;
-    color: white;
-    border-radius: 5px;
-    text-align: center;
-    cursor: pointer;
-    transition: background-color 0.4s ease, transform 0.3s ease;
-}
-
-.simple-transition:hover {
-    background-color: #e74c3c;
-    transform: scale(1.05);
-}
-
 /* Footer */
 footer {
     border-top: 3px solid black;
